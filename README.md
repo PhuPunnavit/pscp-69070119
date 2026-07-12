@@ -1,0 +1,28 @@
+# Completed PSCP Problems
+
+**Name:** Punnavit Tangkonchan (ปุณณวิชญ์ ตั้งกลชาญ)  
+**Student ID:** 69070119  
+**Faculty:** คณะเทคโนโลยีสารสนเทศ, สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)
+
+The following list contains all problems in the PSCP course that have not yet been completed (based on current iJudge submission data). Each entry shows the problem ID and title.
+
+## Completed PSCP Problems
+
+- 2988 - การตรวจสอบบัตรประชาชน
+- 2992 - สลับหมายเลข
+- 2995 - การตรวจสอบบัตรนักศึกษา
+- 2997 - Elo
+- 2998 - EuclideanDistance2D
+- 2999 - Frame
+- 3002 - Cyan's password generator
+- 3004 - หา ระยะทาง ระหว่าง จุด 3D
+- 3005 - กระต่ายน้อยจ่ายตลาด
+- 3006 - Gift I
+- 3007 - Grocery
+- 3008 - Heron of Alexandria
+- 3015 - Pro
+- 3016 - seven
+- 3019 - Safe_password
+- 3027 - กระต่ายน้อยล้อมรั้วลวดหนาม
+
+*Note: Status is based on the latest accessible data. If you have solved any of these problems, please update the list accordingly.*
