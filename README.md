@@ -4,7 +4,7 @@
 **Student ID:** 69070119  
 **Faculty:** คณะเทคโนโลยีสารสนเทศ, สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)
 
-The following list contains all problems in the PSCP course that have not yet been completed (based on current iJudge submission data). Each entry shows the problem ID and title.
+The following list contains all problems in the PSCP course that have been completed (based on current iJudge submission data). Each entry shows the problem ID and title.
 
 ## Completed PSCP Problems
 
@@ -25,4 +25,3 @@ The following list contains all problems in the PSCP course that have not yet be
 - 3019 - Safe_password
 - 3027 - กระต่ายน้อยล้อมรั้วลวดหนาม
 
-*Note: Status is based on the latest accessible data. If you have solved any of these problems, please update the list accordingly.*
