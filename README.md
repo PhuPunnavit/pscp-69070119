@@ -2,9 +2,7 @@
 
 **Name:** Punnavit Tangkonchan (ปุณณวิชญ์ ตั้งกลชาญ)  
 **Student ID:** 69070119  
-**Faculty:** คณะเทคโนโลยีสารสนเทศ, สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)
-
-The following list contains all problems in the PSCP course that have been completed (based on current iJudge submission data). Each entry shows the problem ID and title.
+**Faculty:** คณะเทคโนโลยีสารสนเทศ, สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.).
 
 ## Completed PSCP Problems
 
