@@ -1,4 +1,4 @@
-# Completed PSCP Problems
+# PSCP Problems
 
 **Name:** Punnavit Tangkonchan (ปุณณวิชญ์ ตั้งกลชาญ)  
 **Student ID:** 69070119  
